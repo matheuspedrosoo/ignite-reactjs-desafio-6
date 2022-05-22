@@ -1,6 +1,8 @@
-<p align="center">
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/logo.svg" alt="WorldTrip" width="280"/>
-</p>
+<div align="center">
+
+![text](/preview/logo.svg)
+
+</div>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/matheuspedrosoo/">
@@ -19,10 +21,8 @@
 
 ### Fotos
 
-<div>
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/img1.jpg" width="400px" />
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/img2.jpg" width="400px" />
-</div>
+![text](/preview/img1.jpg)
+![text](/preview/img2.jpg)
 
 # :computer: Tecnologias
 
@@ -75,11 +75,11 @@ Acesse <http://localhost:3000> para ver o resultado.
        <br />
        <a href="https://www.linkedin.com/in/matheuspedrosoo/" title="Linkedin">@matheuspedrosoo</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/matheuspedrosoo/fastfeet-api/commits?author=matheuspedrosoo" title="Code">💻</a>
     </td>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
-        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Henrique Tavares"/>
+      <a href="http://github.com/matheuspedrosoo/">
+        <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Matheus Pedroso"/>
         <br />
         <sub>
           <b>Rocketseat</b>
@@ -88,7 +88,7 @@ Acesse <http://localhost:3000> para ver o resultado.
        <br />
        <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Creators">🚀</a>
+       <a href="https://github.com/matheuspedrosoo/fastfeet-api/commits?author=matheuspedrosoo" title="Creators">🚀</a>
     </td>
   </tr>
 </table>
