@@ -9,16 +9,28 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^1.4.2",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@prismicio/client": "^4.0.0",
+    "framer-motion": "^4.1.2",
     "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "nextjs-progressbar": "^0.0.8",
+    "prismic-dom": "^2.2.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "sass": "^1.32.8",
+    "swiper": "^6.5.3"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
-    "@types/react": "18.0.9",
-    "@types/react-dom": "18.0.4",
+    "@types/react": "17",
+    "@types/react-dom": "17",
     "eslint": "8.16.0",
     "eslint-config-next": "12.1.6",
+    "prettier": "^2.6.2",
     "typescript": "4.6.4"
   }
 }
