@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/preview/logo.svg" alt="WorldTrip" width="280"/>
+   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/logo.svg" alt="WorldTrip" width="280"/>
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@
 ### Fotos
 
 <div>
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/preview/img1.jpg" width="400px" />
-   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/preview/img2.jpg" width="400px" />
+   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/img1.jpg" width="400px" />
+   <img src="https://github.com/matheuspedrosoo/ignite-reactjs-desafio-6/tree/main/src/assets/previews/img2.jpg" width="400px" />
 </div>
 
 # :computer: Tecnologias
